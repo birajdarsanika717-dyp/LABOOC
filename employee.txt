@@ -1,0 +1,8 @@
+Employee ID: 12345
+Employee Name: asdfg
+Basic Salary: Rs. 1.23457e+06
+HRA: Rs. 234
+DA: Rs. 23
+Bonus: Rs. 2345
+Total Salary: Rs. 1.23717e+06
+------------------------
